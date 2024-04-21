@@ -1,0 +1,31 @@
+|stepMotor
+clk => freq[0].CLK
+clk => freq[1].CLK
+clk => freq[2].CLK
+clk => freq[3].CLK
+clk => freq[4].CLK
+clk => freq[5].CLK
+clk => freq[6].CLK
+clk => freq[7].CLK
+clk => freq[8].CLK
+clk => freq[9].CLK
+clk => freq[10].CLK
+clk => freq[11].CLK
+clk => freq[12].CLK
+clk => freq[13].CLK
+clk => freq[14].CLK
+clk => freq[15].CLK
+clk => freq[16].CLK
+clk => freq[17].CLK
+clk => freq[18].CLK
+clk => freq[19].CLK
+clk => freq[20].CLK
+clk => freq[21].CLK
+clk => freq[22].CLK
+clk => freq[23].CLK
+A_phase <= A_phase~reg0.DB_MAX_OUTPUT_PORT_TYPE
+B_phase <= B_phase~reg0.DB_MAX_OUTPUT_PORT_TYPE
+C_phase <= C_phase~reg0.DB_MAX_OUTPUT_PORT_TYPE
+D_phase <= D_phase~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
